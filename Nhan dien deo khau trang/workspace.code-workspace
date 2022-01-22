@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Ble",
+			"path": "..\\..\\..\\Documents\\PlatformIO\\Projects\\Ble"
+		},
+		{
+			"name": "MQTT_DoAn2",
+			"path": "..\\..\\..\\Documents\\PlatformIO\\Projects\\MQTT_DoAn2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "MQTT_DoAn2",
+		"files.associations": {
+			"sdkconfig.h": "c"
+		}
+	}
+}
